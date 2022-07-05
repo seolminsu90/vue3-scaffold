@@ -10,7 +10,7 @@
   - https://cdmoro.github.io/bootstrap-vue-3
   - 테마도 딱히 찾기 힘든 상태
 - 아직까지는 vue2.x, bootstrap4.x 기반으로 하는게 나을 듯. 
-  - bootstrap-vue 무료 테마도 제공한다(Argon)
+  - bootstrap-vue 무료 테마도 제공한다(Argon). 레포지토리 내 참조
 - vue3++ 기반은 대외서비스 할때나 써야지..(2022.07기준)
 
 
