@@ -83,8 +83,11 @@
       </div>
       <!-- /.sidebar -->
     </aside>
-    <section>
+    <section class="content-wrapper">
       <router-view></router-view>
     </section>
   </div>
 </template>
+
+<script>
+</script>
